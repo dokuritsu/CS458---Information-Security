@@ -1,0 +1,2 @@
+# CS458---Information-Security
+Course provides a basic understanding of the problems of information assurance and the solutions that exist to secure information on computers and networks. Topics include, but are not limited to human factors in security policy, basic applied cryptography, public key cryptography, key and identity management, authentication, access control, network security, database security, denial-of-service attack, operating system security, program security and design principle, malicious software, and forensic physical security
